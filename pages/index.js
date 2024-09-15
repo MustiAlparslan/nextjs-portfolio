@@ -12,7 +12,7 @@ import WarningMessage from "../components/warning";
 export default function Home() {
 
   return (
-    <div className="bg-gray-900 min-h-screen flex flex-col justify-center items-center text-white">
+    <div className="bg-gray-900 min-h-screen flex flex-col justify-center pt-16 items-center text-white">
       {/* Profil ve Temel Bilgiler */}
       <Header />
       {/* Sosyal Medya Bağlantıları */}
